@@ -1,10 +1,10 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     background: linear-gradient(#e66465, #9198e5);
     background-repeat: no-repeat;
     height: 100vh;
@@ -13,19 +13,19 @@ body{
     align-items: center;
 }
 
-.box{
+.box {
     margin-top: 0px;
     background-color: white;
     padding: 20px;
 }
 
-.box h1{
-    margin-bottom: 40px ;
+.box h1 {
+    margin-bottom: 40px;
     text-align: center;
     font-size: 40px;
 }
 
-input{
+input {
     padding: 20px;
     user-select: none;
     height: 50px;
@@ -34,7 +34,8 @@ input{
     border-radius: 10px;
     font-size: 20px;
 }
-.box a{
+
+.box a {
     display: inline-block;
     text-decoration: none;
     padding: 15px;
@@ -45,10 +46,10 @@ input{
     border-radius: 10px;
 }
 
-a:hover{
-    background: linear-gradient( #9198e5, #e66465);
+a:hover {
+    background: linear-gradient(#9198e5, #e66465);
 }
 
-.box .btn2{
+.box .btn2 {
     margin-left: 77px;
 }
